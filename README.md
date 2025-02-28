@@ -8,9 +8,10 @@ The assessments I have worked on within this repository are:
 | Week | Title | Summary |
 | :--  | :---: |  :---:  |
 | 1 | No Assignment |  No assignment this week. |
-| 2 | Deal Cards | A Python program that interacts with the Deck of Cards API to shuffle a deck, draw 5 cards, print their values and suits. It then check for pairs, triples, straights or flushes. |
+| 2 | Card Draw | A Python program that interacts with the Deck of Cards API to shuffle a deck, draw 5 cards, print their values and suits. It then check for pairs, triples, straights or flushes. |
 | 3 | Quiz | This week there was a quiz on the VLE. |
-| 4 | CSO | |
+| 4 | CSO | retrieves the dataset for the "exchequer account (historical series)" from the CSO and stores it into a file called "cso.json" |
+| 5 | Git Hub | |
 
 ## Get Help
 Please feel free to log any issues you spot on the Git repository page or to email me with any queries (my student email is included below).

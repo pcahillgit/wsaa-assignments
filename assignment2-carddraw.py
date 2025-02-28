@@ -43,7 +43,7 @@ if max(suit_counts.values()) == 5:
 
 # References:
 # Deck of Cards API: https://deckofcardsapi.com/
-# W3 Schools guide to the imports module: https://www.w3schools.com/python/module_requests.asp
+# W3 Schools guide to the requests module: https://www.w3schools.com/python/module_requests.asp
 # W3 Schools guide to if elif statements: https://www.w3schools.com/python/gloss_python_elif.asp#:~:text=The%20elif%20keyword%20is%20pythons,%2C%20then%20try%20this%20condition%22.
 # Stack Overflow thread on giving values to face cards: https://stackoverflow.com/questions/70676067/making-card-game-how-do-i-give-the-face-cards-value
 # Stack Overflow thread on identifying poker hands in Python: https://stackoverflow.com/questions/56874468/identifying-straight-flush-and-other-categories-from-poker-using-python
